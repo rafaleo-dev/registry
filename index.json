@@ -2288,6 +2288,47 @@
       "updated": "2026-02-12"
     },
     {
+      "name": "high_elf_builder_ru",
+      "display_name": "Строитель Высших Эльфов",
+      "version": "1.0.0",
+      "description": "High Elf Builder voice lines from Warcraft III (Russian)",
+      "author": {
+        "name": "Ivan Efremov",
+        "github": "I194"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "user.spam"
+      ],
+      "language": "ru",
+      "license": "fair-use",
+      "sound_count": 22,
+      "total_size_bytes": 796675,
+      "source_repo": "I194/openpeon-high-elf-builder-ru",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "8c4ab7f7ff5b358efc1a8ad4f47273a6a1183ced14c6a983f37d2862f6a1b787",
+      "tags": [
+        "gaming",
+        "warcraft",
+        "rts",
+        "blizzard",
+        "russian"
+      ],
+      "preview_sounds": [
+        "what_build.mp3",
+        "voila.mp3"
+      ],
+      "added": "2026-03-09",
+      "updated": "2026-03-09"
+    },
+    {
       "name": "jarvis",
       "display_name": "J.A.R.V.I.S.",
       "version": "1.0.0",
