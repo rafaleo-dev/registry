@@ -3195,7 +3195,7 @@
     {
       "name": "ds1-siegmeyer",
       "display_name": "Dark Souls – Siegmeyer of Catarina",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "A sound pack with a big heart and bigger armor.",
       "author": {
         "name": "jmfiebak",
@@ -3215,12 +3215,12 @@
       ],
       "language": "en",
       "license": "MIT",
-      "sound_count": 70,
-      "total_size_bytes": 7077888,
+      "sound_count": 69,
+      "total_size_bytes": 10326016,
       "source_repo": "jmfiebak/openpeon-siegmeyer-sound-pack",
-      "source_ref": "v1.0.0",
+      "source_ref": "v1.0.1",
       "source_path": ".",
-      "manifest_sha256": "db5dfff51c64f392a7d499dbf455aa2b84ad97f19610d48ee3fcddc3133bd683",
+      "manifest_sha256": "c5702b22ccba1cfdfae17cbe0b524dc2f2b369ddc735d6447867112c856a324d",
       "tags": [
         "gaming",
         "dark souls",
